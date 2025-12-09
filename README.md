@@ -21,7 +21,8 @@ my-business-web
 ├── images/  
 │ ├── logo.png  
 │ ├── ceo-eventpop.jpg  
-│ ├── coo-eventpop.jpg  
+│ ├── map.png  
+│ ├── parinwhiteshirt.jpg  
 │ └── ...  
 └── README.md
 

@@ -45,5 +45,4 @@ my-business-web
 ![index.html](images/screen-services.png)
 
 [ติดต่อ](contact.html)
-![index.html](images/screen-contact1.png)
-![index.html](images/screen-contact2.png)
+![index.html](images/screen-contact.png)

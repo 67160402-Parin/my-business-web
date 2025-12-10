@@ -29,6 +29,12 @@ my-business-web
 # ลิงก์ไปแต่ละหน้า (Page Links)
 
 - [หน้าแรก](index.html)
+  ![index.html](images/screen-index.png)
 - [เกี่ยวกับ](about.html)
+  ![index.html](images/screen-about1.png)
+  ![index.html](images/screen-about2.png)
 - [บริการ](services.html)
+  ![index.html](images/screen-services.png)
 - [ติดต่อ](contact.html)
+  ![index.html](images/screen-contact1.png)
+  ![index.html](images/screen-contact2.png)
